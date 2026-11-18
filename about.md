@@ -16,5 +16,5 @@ Un roguelite de survie en arène fermée où ton halo de lumière repousse les s
 - 100% statique, sans serveur ni collecte de donnees
 
 ## Contact
-- Email : geoffroy.streit@gmail.com
+- Email : geoffroy.streit@ik.me
 - Plateforme : https://games.hylst.fr/
