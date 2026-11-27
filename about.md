@@ -3,7 +3,7 @@
 **Cimetière Clair : Nuit Blanche** est un survie / horde roguelite developpe par **Geoffroy Streit** (alias **Hylst**).
 
 ## Le jeu
-Un roguelite de survie en arène fermée où ton halo de lumière repousse les spectres et zombis. Collecte des orbes, choisis tes améliorations magiques et tiens jusqu'aux lueurs de l'aube.
+Un roguelite de survie en arène fermée où ton halo de lumière repousse les spectres et zombis. Collecte des orbes, choisis tes améliorations magiques et tiens le plus longtemps possible.
 
 ## Le createur
 - Developpeur d'applications, ancien graphiste et compositeur

@@ -5,7 +5,7 @@
 Joue en ligne sur : [https://games.hylst.fr/cimetiereclair/](https://games.hylst.fr/cimetiereclair/)
 
 ## Description
-Un roguelite de survie en arène fermée où ton halo de lumière repousse les spectres et zombis. Collecte des orbes, choisis tes améliorations magiques et tiens jusqu'aux lueurs de l'aube.
+Un roguelite de survie en arène fermée où ton halo de lumière repousse les spectres et zombis. Collecte des orbes, choisis tes améliorations magiques et tiens le plus longtemps possible.
 
 ## Controles
 | Contrôle | Action |

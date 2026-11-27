@@ -100,7 +100,8 @@ export default function App() {
           <div className={`${overlay} bg-[radial-gradient(ellipse_at_center,rgba(5,6,15,0.55),rgba(5,6,15,0.92))]`}>
             <div className="pop flex max-w-xl flex-col items-center gap-3 sm:gap-5">
               <div className="text-4xl sm:text-6xl">🎃</div>
-              <h1 className="glow-title font-creep text-4xl tracking-wide text-amber-300 sm:text-7xl">Le Cimetière Lumineux</h1>
+              <h1 className="glow-title font-creep text-4xl tracking-wide text-amber-300 sm:text-7xl">Cimetière Clair</h1>
+              <p className="font-creep text-xs uppercase tracking-[0.3em] text-amber-200/70 sm:text-sm">Le Cimetière Lumineux</p>
               <p className="max-w-md text-xs leading-relaxed text-amber-50/80 sm:text-base">
                 Tu es la citrouille magique qui veille sur le cimetière. Des vagues de squelettes sortent de terre :
                 ta lumière est ta seule arme… et ton seul abri.
@@ -118,6 +119,7 @@ export default function App() {
                 Allumer la lumière
               </button>
               {best > 0 && <div className="text-xs text-amber-200/70 sm:text-sm">🏆 Meilleur score : {best}</div>}
+              <p className="text-[10px] text-amber-200/60">Créé par Geoffroy Streit (Hylst) avec l'aide d'une IA.</p>
             </div>
           </div>
         )}
